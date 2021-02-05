@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Exercise Fruits</string>
+
+    <!-- Add fruit -->
+    <string name="fruit_name">Fruta</string>
+    <string name="fruit_benefit">Benefício</string>
+    <string name="fruit_photo">Photo</string>
+    <string name="fruit_create">Criar</string>
+
+    <!-- Titles -->
+    <string name="activity_add_fruit">Criar Fruta</string>
+    <string name="activity_list_fruit">Lista de Frutas</string>
+
+    <!-- Images -->
+    <string name="select_image">Selecione uma imagem</string>
+    <string name="fields_image">Selecione uma imagem</string>
+
+    <string name="text_alert">Você está prestes a retirar a fruta, tem certeza?</string>
+    <string name="text_alert_title">Esperar!</string>
+    <string name="text_fruit_removed">Fruta removida</string>
+    <string name="text_yes">Sim</string>
+    <string name="text_no">Não</string>
+    <string name="text_filter">Filtro</string>
+
+    <!-- Dialog -->
+    <string name="duplicated_fruits">Esconder frutas duplicadas</string>
+    <string name="alphabetical_order">Classificar por ordem alfabética</string>
+</resources>
